@@ -1,0 +1,5 @@
+import string
+print(string.hexdigits)
+print(string.octdigits)
+print(string.capwords("hellow world"))
+print(string)
